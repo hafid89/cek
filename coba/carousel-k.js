@@ -1,5 +1,5 @@
-var nextBtn = document.querySelector('.next'),
-    prevBtn = document.querySelector('.prev'),
+var nextBtn = document.querySelector('.next1'),
+    prevBtn = document.querySelector('.prev1'),
     carousel = document.querySelector('.carousel'),
     list = document.querySelector('.list'), 
     item = document.querySelectorAll('.item'),
