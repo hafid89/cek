@@ -533,6 +533,15 @@ font-size: 1em;
     color: #fff;
     padding: 10px;
   }
+  .kartu {
+    width: 90vw; /* Sesuaikan lebar kartu untuk layar lebih kecil */
+    height: 70vh; /* Sesuaikan tinggi kartu untuk layar lebih kecil */
+  }
+  .kartu .face h2 {
+    font-size: 1.5em; /* Sesuaikan ukuran font untuk layar lebih kecil */
+  }
+}
+
 }
 
 /* Menyembunyikan .ula dan menyesuaikan .ulb di layar kecil */
