@@ -1172,8 +1172,10 @@ footer {
 }
 .space{
   background-color: #4624c4;
-  height: 100vh;
+  height: 10vh;
+  margin-top: 50%;
 }
+
 
   .location,
   .contact {
