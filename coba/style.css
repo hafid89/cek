@@ -1170,7 +1170,10 @@ footer {
     margin-right: 0px; /* Jarak antara dot dan konten */
     text-align: right; /* Teks rata kanan */
 }
-
+.space{
+  background-color: #4624c4;
+  height: 10vh;
+}
 
   .location,
   .contact {
